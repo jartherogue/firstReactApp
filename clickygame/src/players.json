@@ -1,9 +1,8 @@
 [
     {
       "id": 1,
-      "name": "Jose Canseco",
       "image":
-        "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+        "https://d3k2oh6evki4b7.cloudfront.net/req/201804091/images/headshots/3/37e0251c_sabr.jpg",
       "team": "Oakland Athletics"
     },
     {
@@ -14,9 +13,8 @@
     },
     {
       "id": 3,
-      "name": "Dennis Eckersley",
       "image":
-        "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+        "https://d3k2oh6evki4b7.cloudfront.net/req/201804091/images/headshots/9/98aaf620_davis.jpg",
       "team": "Oakland Athletics"
     },
     {
@@ -27,16 +25,14 @@
     },
     {
       "id": 5,
-      "name": "Lance Blankenship",
       "image":
-        "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "https://d3k2oh6evki4b7.cloudfront.net/req/201804091/images/headshots/e/e73a7f01_davis.jpg",
       "team": "Oakland Athletics"
     },
     {
       "id": 6,
-      "name": "Mike Gallego",
       "image":
-        "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "https://d3k2oh6evki4b7.cloudfront.net/req/201804091/images/headshots/e/efc330e5_davis.jpg",
       "team": "Oakland Athletics"
     },
     {
@@ -47,16 +43,14 @@
     },
     {
       "id": 8,
-      "name": "Terry Steinbach",
       "image":
-        "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "https://d3k2oh6evki4b7.cloudfront.net/req/201804091/images/headshots/6/6f0253de_davis.jpg",
       "team": "Oakland Athletics"
     },
     {
       "id": 9,
-      "name": "Rick Honeycutt",
       "image":
-        "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "https://d3k2oh6evki4b7.cloudfront.net/req/201804091/images/headshots/a/af771d48_davis.jpg",
       "team": "Oakland Athletics"
     },
     {
@@ -73,9 +67,8 @@
     },
     {
       "id": 12,
-      "name": "Walt Weiss",
       "image":
-        "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "https://d3k2oh6evki4b7.cloudfront.net/req/201804091/images/headshots/2/27e6e67e_davis.jpg",
       "team": "Oakland Athletics"
     }
   ]

@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Myjumbo from "./components/Jumbotron";
 import Navbar from "./components/Navbar";
 import { Jumbotron } from 'reactstrap'
+import { Col, Row, Container } from "./components/Grid";
 import Playercard from "./components/Playercard";
 import players from "./players.json";
 // import Footer from "./components/Footer";
@@ -14,11 +15,11 @@ import players from "./players.json";
 const App = () => (
 
     <Router>
-      <div>
+      <Container fluid>
         <Navbar />
         <Myjumbo />
+        <Row>
         {players.map((player)=>  <Playercard
-      name={player.name}
       image={player.image}
       team={player.team}
     /> )}
@@ -29,7 +30,8 @@ const App = () => (
           <Route exact path="/search" component={Search} />
         </Wrapper>
         <Footer /> */}
-      </div>
+        </Row>
+      </Container>
     </Router>
 );
 

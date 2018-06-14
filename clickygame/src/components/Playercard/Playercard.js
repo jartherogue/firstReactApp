@@ -9,9 +9,6 @@ const Playercard = props => (
       <div className="content">
         <ul>
           <li>
-            <strong>Name:</strong> {props.name}
-          </li>
-          <li>
             <strong>Team:</strong> {props.team}
           </li>
         </ul>
